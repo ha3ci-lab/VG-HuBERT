@@ -8,3 +8,5 @@ __pycache__/
 *.pdf
 test*
 *.log
+vg-hubert_3/
+*.tar

@@ -1,4 +1,4 @@
-apex==0.1
+# apex==0.1    # Couldn't find apex==0.1 in my case, only 0.9.8-based ones
 fairseq==0.10.0
 # faiss==1.5.3, For me this didnt work. I installed it from GitHub facebook/faiss 
 matplotlib==3.5.1
